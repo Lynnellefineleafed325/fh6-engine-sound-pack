@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Screenshots/banner.png" width="100%">
+</p>
 <div align="center">
 
 # FH6 REV ENGINE AUDIO PROJECT
