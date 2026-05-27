@@ -9,11 +9,11 @@
 
 <br>
 
-<img src="https://img.shields.io/github/downloads/USERNAME/REPOSITORY/total?style=for-the-badge&color=orange">
-<img src="https://img.shields.io/github/v/release/USERNAME/REPOSITORY?style=for-the-badge&color=red">
-<img src="https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge&color=yellow">
-<img src="https://img.shields.io/github/issues/USERNAME/REPOSITORY?style=for-the-badge&color=blue">
-<img src="https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge&color=green">
+<img src="https://img.shields.io/github/downloads/LavenderBeetleRoof/fh6-engine-sound-pack/total?style=for-the-badge&color=orange">
+<img src="https://img.shields.io/github/v/release/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=red">
+<img src="https://img.shields.io/github/stars/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=yellow">
+<img src="https://img.shields.io/github/issues/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=blue">
+<img src="https://img.shields.io/github/license/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=green">
 
 <br><br>
 
