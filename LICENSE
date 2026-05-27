@@ -1,0 +1,27 @@
+# Horizon Engine Audio Suite FH6 v1.0.0
+
+## Download
+
+Download the `.zip` file attached to this release.
+
+## Highlights
+
+- Exhaust presence refinement
+- Intake response balancing
+- Turbo spool and BOV behavior pass
+- Backfire and anti-lag consistency tuning
+- Engine-family progression improvements
+
+## Install
+
+1. Download the archive.
+2. Extract it.
+3. Read `INSTALL.txt`.
+4. Back up original files.
+5. Copy the package files into the matching location.
+
+## Recommended asset name
+
+```text
+Horizon-Engine-Audio-Suite-FH6-v1.0.0.zip
+```
